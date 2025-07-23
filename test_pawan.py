@@ -1,1 +1,2 @@
-print("Test demo")
+a = 10
+print(a)
