@@ -1,5 +1,2 @@
-print("Hi")
-print("Test demo")
-print("Test demo")
-print("Test demo")
-print("Test demo")
+a = 10
+print(a)
